@@ -1,5 +1,5 @@
 - Hi, I’m Mohamed Okasha. 
-- I’m interested in Machine Learning and AI in python and how they tie to application in Industrial Automation and Controls Enigneering
+- I’m interested in Machine Learning and AI in python and how they tie to applications in Industrial Automation and Controls Enigneering
 - I’m currently learning Neural Networks.
 - I’m looking to collaborate on Machine Learning projects, PLC projects and Industrial Automation.
 - How to reach me: mohamed.okasha@fastlogixautomation.com
